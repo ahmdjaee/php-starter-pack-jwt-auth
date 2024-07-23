@@ -12,7 +12,7 @@
             <h1>Login for Access to [Your Platform Name]</h1>
             <p>Here, we believe that building a strong professional network begins with your participation.
                 We are delighted to offer a modern and user-friendly service to ensure you have the best experience</p>
-            <img src="/assets/home.png" class="img-fluid" alt="...">
+            <img src="/assets/images/home.png" class="img-fluid" alt="...">
         </section>
         <div class="container " style="width: 30%; height: 50vh">
             <form method="post">
